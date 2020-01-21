@@ -77,6 +77,13 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
 /**
        * Checks if an event is supported in the current execution environment.
        *
@@ -94,10 +101,3 @@ object-assign
 
 /* NProgress, (c) 2013, 2014 Rico Sta. Cruz - http://ricostacruz.com/nprogress
       * @license MIT */
-
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
